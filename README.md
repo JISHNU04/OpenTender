@@ -13,7 +13,7 @@ How OpenTender works?
     Once the deadline is over, the system chooses the best proposal.
     The result is announced to everyone.
 
-Future Scope of OpenTender.
+Future Scope of OpenTender
 
     Contractor authentication, on the portal, and verification by the government agencies.
     Increase the scalability.
