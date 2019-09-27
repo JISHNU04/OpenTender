@@ -9,6 +9,11 @@ AucTender is a decentralized application which allows different organizations, s
 Future Scope of AucTender 
 
 • Contractor authentication, on the portal, and verification by the government agencies.
+
 • Increase the scalability.
+
 • Smart contracts between the government and the contractor, on the portal. 
+
 • More advanced algorithm for the selection process of the proposal
+
+
